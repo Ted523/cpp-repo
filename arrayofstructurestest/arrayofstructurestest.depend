@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1481182785 source:c:\users\admin\desktop\teddyc2\arrayofstructurestest\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+

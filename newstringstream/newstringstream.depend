@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480869998 source:c:\users\admin\desktop\teddyc2\newstringstream\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+
