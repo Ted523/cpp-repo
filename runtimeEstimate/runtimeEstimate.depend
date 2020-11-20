@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1474983221 source:c:\users\admin\desktop\teddy c1\runtimeestimate\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

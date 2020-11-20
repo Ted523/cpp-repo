@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1470044408 source:c:\users\admin\desktop\teddy c1\ted16\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+
